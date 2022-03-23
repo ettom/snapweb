@@ -12,5 +12,6 @@
     "display": "standalone",
     "categories": ["music"],
     "description": "Snapcast web client",
-    "theme_color": "#455A64"
+    "theme_color": "#131516",
+    "background_color": "#131516"
 }
